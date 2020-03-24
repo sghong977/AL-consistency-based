@@ -1,0 +1,14 @@
+*.pyc
+__pycache__/
+CIFAR10/__pycache__
+CIFAR100/
+CIFAR10/cifar-10-batches-py
+CIFAR10/cifar-10-python.tar.gz
+.DS_Store
+MNIST
+SVHN
+FashionMNIST
+.git
+.vscode
+logs/
+STL10/*
