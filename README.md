@@ -2,9 +2,7 @@
 
 Official code for "Deep Active Learning with Augmentation-based Consistency Estimation".
 
-Arxiv preprint
-
-https://arxiv.org/abs/2011.02666
+Arxiv preprint: https://arxiv.org/abs/2011.02666
 
 
 @misc{hong2020deep,
