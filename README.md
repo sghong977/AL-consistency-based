@@ -1,4 +1,4 @@
-# Deep Active Learning with Consistency-based Regularization
+# Deep Active Learning with Augmentation-based Consistency Estimation
 
 Arxiv preprint
 
