@@ -1,4 +1,14 @@
 # Deep Active Learning with Consistency-based Regularization
+Arxiv preprint
+https://arxiv.org/abs/2011.02666
+@misc{hong2020deep,
+      title={Deep Active Learning with Augmentation-based Consistency Estimation}, 
+      author={SeulGi Hong and Heonjin Ha and Junmo Kim and Min-Kook Choi},
+      year={2020},
+      eprint={2011.02666},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 
 ## Deep Active Learning
 Python implementations of the following active learning algorithms:
